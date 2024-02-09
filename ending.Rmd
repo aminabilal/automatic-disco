@@ -1,0 +1,18 @@
+---
+title: "Ending"
+description: |
+  A new article created using the Distill format.
+
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+So as you already know everything I don't need to repeat myself but if you don't then go to my previous page. Stop wasting your time and let's see who my first customer will be and if you lot really enjoy this I could do a Voice Activated-Speaker.Let me show you all a picture of what my Voice Activated-Speaker could look like.
+
+
+![](images/yaya.jpg){width=30%}
+
+Bye and stop wasting time right now and be my first ever customer.

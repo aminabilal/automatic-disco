@@ -1,0 +1,14 @@
+name: "."
+title: "How it works"
+description: |
+  name of your website
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "ending"
+      href: ending.html
+output: distill::distill_article

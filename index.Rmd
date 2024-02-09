@@ -1,0 +1,27 @@
+---
+title: "automtic-disco"
+image: "images/disco.jpg"
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 130
+links:
+  - label: '<i class="fa-solid fa-comment fa-beat" style="color: #B197FC;"></i> comment'
+    url: 'https://twitter.com/R_Girls_School target="_blank"'
+  - label: '<i class="fa-solid fa-wand-magic-sparkles fa-shake" style="color: #1d83af;"></i> github' 
+    url: 'https://github.com/R-Girls target="_blank"'
+  - label: '<i class="fa-solid fa-arrow-right fa-bounce" style="color: #FFD43B;"></i> contact us'
+    url: "mailto:amina.bilal_22@greenoak.bham.sch.uk"
+output:
+  postcards::onofre
+site: distill::distill_website
+--- 
+
+`r emo::ji("clap")`
+
+ 
+## **Welcome,**
+*This website will be about automatic disco's* 
+*Are you always tired of having to on and off your disco ball or get up and change the setting with a half broken button underneath the ball well fear no more you have come to right place* *So I have made automatic disco's for parties or any special occasions* *I have made this because I thought a lot of people go school and write non-stop that they can't even move their hand to do 1000 things just to on a disco so just with one click and there you go it automatically turns on without even moving form you place and you can change the settings and color on the phone with the app* 
+
+
+![](images/lalala.jpg){width=50%}
