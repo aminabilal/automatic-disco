@@ -1,5 +1,5 @@
 ---
-title: "automtic-disco"
+title: "AUTOMATIC"
 image: "images/disco.jpg"
 color1: "#5A59A3"
 color2: "#C66060"
@@ -21,7 +21,8 @@ site: distill::distill_website
  
 ## **Welcome,**
 *This website will be about automatic disco's* 
-*Are you always tired of having to on and off your disco ball or get up and change the setting with a half broken button underneath the ball well fear no more you have come to right place* *So I have made automatic disco's for parties or any special occasions* *I have made this because I thought a lot of people go school and write non-stop that they can't even move their hand to do 1000 things just to on a disco so just with one click and there you go it automatically turns on without even moving form you place and you can change the settings and color on the phone with the app* 
+*Are you always tired of having to on and off your disco ball or get up and change the setting with a half broken button underneath the ball well fear no more you have come to right place* *So I have made automatic disco's for parties or any special occasions* *I have made this because I thought a lot of people go school and write non-stop that they can't even move their hand to do 1000 things just to on a disco so just with one click and there you go it automatically turns on without even moving from you place and you can change the settings are on the phone with the app* 
 
 
-![](images/lalala.jpg){width=50%}
+
+

@@ -1,5 +1,5 @@
-name: "."
-title: "How it works"
+name: "AUTOMATIC-DISCO"
+title: "AUTOMATIC-DISCO"
 description: |
   name of your website
 output_dir: "docs"
@@ -12,3 +12,4 @@ navbar:
     - text: "ending"
       href: ending.html
 output: distill::distill_article
+theme: my_theme.css

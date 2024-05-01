@@ -1,7 +1,7 @@
 ---
-title: "About this site"
+title: "AUTOMATIC-DISCO"
 description: |
-  Some additional details about the website
+  
 ---
 
 ```{r setup, include=FALSE}
@@ -9,4 +9,4 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-**The app is called AUTOMATIC-DISCO CHANGER** *What are you waiting for the app has just come out now on the Play Store so go download it now and you can get the disco ball from my website page* *Please enjoy the app because it would really support me* *If this sells then I will do a voice activated on* *Bye have fun I won't keep you for any longer*
+**The app is called AUTOMATIC-DISCO CHANGER** *What are you waiting for the app has just come out now on the Play Store so go download it now and you can get the disco ball from my website page* *Please enjoy the app because it would really support me* *If this sells then I will do a voice activated one* *Bye have fun I won't keep you for any longer*
